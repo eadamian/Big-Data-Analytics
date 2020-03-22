@@ -2,4 +2,6 @@
 
 Link to dataset can be found here: https://data.fivethirtyeight.com/ (Data tested as of July 2019.)
 
-NOTE: CSV file will not display under repository, but is accessible when downloaded.
+CSV file will not display under repository, but is accessible when downloaded.
+
+NOTE: Ensure pandas and numpy installation in order to properly run the program.
