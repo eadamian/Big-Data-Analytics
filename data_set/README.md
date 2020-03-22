@@ -1,7 +1,5 @@
 # trump-approval-ratings (How Popular is Donald Trump?)
 
-Link to data set can be found here: https://data.fivethirtyeight.com/ (data tested as of July 2019).
-
-CSV file will not display under repository, but is accessible when downloaded.
+Data set link: https://data.fivethirtyeight.com/ (data from July 2019).
 
 NOTE: Ensure pandas and numpy installation in order to properly run the program.
