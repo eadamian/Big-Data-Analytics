@@ -1,5 +1,6 @@
 ericadamian@Erics-MBP-2 ~ % cd desktop
-ericadamian@Erics-MBP-2 desktop % python data_set.py
+ericadamian@Erics-MBP-2 desktop % cd data_set
+ericadamian@Erics-MBP-2 data_set % python data_set.py
 
 
 First 50 data entries:
