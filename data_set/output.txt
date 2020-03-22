@@ -1,0 +1,290 @@
+ericadamian@Erics-MBP-2 ~ % cd desktop
+ericadamian@Erics-MBP-2 desktop % python data_set.py
+
+
+First 50 data entries:
+___________________________________________________________
+       president   subgroup  ... createddate             timestamp
+0   Donald Trump  All polls  ...   1/23/2017  10:07:55 14 Jul 2019
+1   Donald Trump  All polls  ...   1/23/2017  10:07:55 14 Jul 2019
+2   Donald Trump  All polls  ...   1/24/2017  10:07:55 14 Jul 2019
+3   Donald Trump  All polls  ...    3/1/2017  10:07:55 14 Jul 2019
+4   Donald Trump  All polls  ...   1/25/2017  10:07:55 14 Jul 2019
+5   Donald Trump  All polls  ...   1/26/2017  10:07:55 14 Jul 2019
+6   Donald Trump  All polls  ...    3/1/2017  10:07:55 14 Jul 2019
+7   Donald Trump  All polls  ...   1/25/2017  10:07:55 14 Jul 2019
+8   Donald Trump  All polls  ...    3/1/2017  10:07:55 14 Jul 2019
+9   Donald Trump  All polls  ...   1/26/2017  10:07:55 14 Jul 2019
+10  Donald Trump  All polls  ...   1/26/2017  10:07:55 14 Jul 2019
+11  Donald Trump  All polls  ...   1/25/2017  10:07:55 14 Jul 2019
+12  Donald Trump  All polls  ...   1/26/2017  10:07:55 14 Jul 2019
+13  Donald Trump  All polls  ...   1/27/2017  10:07:55 14 Jul 2019
+14  Donald Trump  All polls  ...    3/1/2017  10:07:55 14 Jul 2019
+15  Donald Trump  All polls  ...   1/27/2017  10:07:55 14 Jul 2019
+16  Donald Trump  All polls  ...   1/28/2017  10:07:55 14 Jul 2019
+17  Donald Trump  All polls  ...    3/1/2017  10:07:55 14 Jul 2019
+18  Donald Trump  All polls  ...   1/29/2017  10:07:55 14 Jul 2019
+19  Donald Trump  All polls  ...   1/29/2017  10:07:55 14 Jul 2019
+20  Donald Trump  All polls  ...   1/30/2017  10:07:55 14 Jul 2019
+21  Donald Trump  All polls  ...    3/1/2017  10:07:55 14 Jul 2019
+22  Donald Trump  All polls  ...   1/30/2017  10:07:55 14 Jul 2019
+23  Donald Trump  All polls  ...    3/1/2017  10:07:55 14 Jul 2019
+24  Donald Trump  All polls  ...   1/31/2017  10:07:55 14 Jul 2019
+25  Donald Trump  All polls  ...   1/31/2017  10:07:55 14 Jul 2019
+26  Donald Trump  All polls  ...   1/31/2017  10:07:55 14 Jul 2019
+27  Donald Trump  All polls  ...    3/1/2017  10:07:55 14 Jul 2019
+28  Donald Trump  All polls  ...    2/1/2017  10:07:55 14 Jul 2019
+29  Donald Trump  All polls  ...    2/1/2017  10:07:55 14 Jul 2019
+30  Donald Trump  All polls  ...    3/1/2017  10:07:55 14 Jul 2019
+31  Donald Trump  All polls  ...    2/3/2017  10:07:55 14 Jul 2019
+32  Donald Trump  All polls  ...    2/1/2017  10:07:55 14 Jul 2019
+33  Donald Trump  All polls  ...    2/1/2017  10:07:55 14 Jul 2019
+34  Donald Trump  All polls  ...    2/2/2017  10:07:55 14 Jul 2019
+35  Donald Trump  All polls  ...    3/1/2017  10:07:55 14 Jul 2019
+36  Donald Trump  All polls  ...    2/2/2017  10:07:55 14 Jul 2019
+37  Donald Trump  All polls  ...    2/3/2017  10:07:55 14 Jul 2019
+38  Donald Trump  All polls  ...    2/3/2017  10:07:55 14 Jul 2019
+39  Donald Trump  All polls  ...    3/1/2017  10:07:55 14 Jul 2019
+40  Donald Trump  All polls  ...    2/3/2017  10:07:55 14 Jul 2019
+41  Donald Trump  All polls  ...    2/6/2017  10:07:55 14 Jul 2019
+42  Donald Trump  All polls  ...    2/4/2017  10:07:55 14 Jul 2019
+43  Donald Trump  All polls  ...    2/3/2017  10:07:55 14 Jul 2019
+44  Donald Trump  All polls  ...    3/1/2017  10:07:55 14 Jul 2019
+45  Donald Trump  All polls  ...    2/5/2017  10:07:55 14 Jul 2019
+46  Donald Trump  All polls  ...    3/1/2017  10:07:55 14 Jul 2019
+47  Donald Trump  All polls  ...    2/5/2017  10:07:55 14 Jul 2019
+48  Donald Trump  All polls  ...    1/9/2019  10:07:55 14 Jul 2019
+49  Donald Trump  All polls  ...    2/6/2017  10:07:55 14 Jul 2019
+
+[50 rows x 22 columns]
+Last 50 data entries:
+___________________________________________________________
+         president subgroup  ... createddate             timestamp
+8963  Donald Trump   Voters  ...    7/1/2019  10:09:44 14 Jul 2019
+8964  Donald Trump   Voters  ...    7/1/2019  10:09:44 14 Jul 2019
+8965  Donald Trump   Voters  ...    7/2/2019  10:09:44 14 Jul 2019
+8966  Donald Trump   Voters  ...   6/30/2019  10:09:44 14 Jul 2019
+8967  Donald Trump   Voters  ...    7/1/2019  10:09:44 14 Jul 2019
+8968  Donald Trump   Voters  ...    7/2/2019  10:09:44 14 Jul 2019
+8969  Donald Trump   Voters  ...    7/1/2019  10:09:44 14 Jul 2019
+8970  Donald Trump   Voters  ...    7/2/2019  10:09:44 14 Jul 2019
+8971  Donald Trump   Voters  ...    7/1/2019  10:09:44 14 Jul 2019
+8972  Donald Trump   Voters  ...    7/3/2019  10:09:44 14 Jul 2019
+8973  Donald Trump   Voters  ...    7/7/2019  10:09:44 14 Jul 2019
+8974  Donald Trump   Voters  ...    7/3/2019  10:09:44 14 Jul 2019
+8975  Donald Trump   Voters  ...    7/2/2019  10:09:44 14 Jul 2019
+8976  Donald Trump   Voters  ...    7/2/2019  10:09:44 14 Jul 2019
+8977  Donald Trump   Voters  ...    7/3/2019  10:09:44 14 Jul 2019
+8978  Donald Trump   Voters  ...    7/3/2019  10:09:44 14 Jul 2019
+8979  Donald Trump   Voters  ...    7/7/2019  10:09:44 14 Jul 2019
+8980  Donald Trump   Voters  ...    7/7/2019  10:09:44 14 Jul 2019
+8981  Donald Trump   Voters  ...    7/8/2019  10:09:44 14 Jul 2019
+8982  Donald Trump   Voters  ...    7/7/2019  10:09:44 14 Jul 2019
+8983  Donald Trump   Voters  ...    7/7/2019  10:09:44 14 Jul 2019
+8984  Donald Trump   Voters  ...    7/9/2019  10:09:44 14 Jul 2019
+8985  Donald Trump   Voters  ...    7/8/2019  10:09:44 14 Jul 2019
+8986  Donald Trump   Voters  ...    7/9/2019  10:09:44 14 Jul 2019
+8987  Donald Trump   Voters  ...    7/9/2019  10:09:44 14 Jul 2019
+8988  Donald Trump   Voters  ...    7/9/2019  10:09:44 14 Jul 2019
+8989  Donald Trump   Voters  ...    7/9/2019  10:09:44 14 Jul 2019
+8990  Donald Trump   Voters  ...    7/9/2019  10:09:44 14 Jul 2019
+8991  Donald Trump   Voters  ...    7/9/2019  10:09:44 14 Jul 2019
+8992  Donald Trump   Voters  ...    7/9/2019  10:09:44 14 Jul 2019
+8993  Donald Trump   Voters  ...    7/8/2019  10:09:44 14 Jul 2019
+8994  Donald Trump   Voters  ...   7/10/2019  10:09:44 14 Jul 2019
+8995  Donald Trump   Voters  ...    7/9/2019  10:09:44 14 Jul 2019
+8996  Donald Trump   Voters  ...   7/14/2019  10:09:44 14 Jul 2019
+8997  Donald Trump   Voters  ...   7/10/2019  10:09:44 14 Jul 2019
+8998  Donald Trump   Voters  ...    7/9/2019  10:09:44 14 Jul 2019
+8999  Donald Trump   Voters  ...   7/11/2019  10:09:44 14 Jul 2019
+9000  Donald Trump   Voters  ...   7/10/2019  10:09:44 14 Jul 2019
+9001  Donald Trump   Voters  ...    7/9/2019  10:09:44 14 Jul 2019
+9002  Donald Trump   Voters  ...   7/13/2019  10:09:44 14 Jul 2019
+9003  Donald Trump   Voters  ...   7/10/2019  10:09:44 14 Jul 2019
+9004  Donald Trump   Voters  ...   7/10/2019  10:09:44 14 Jul 2019
+9005  Donald Trump   Voters  ...   7/11/2019  10:09:44 14 Jul 2019
+9006  Donald Trump   Voters  ...   7/12/2019  10:09:44 14 Jul 2019
+9007  Donald Trump   Voters  ...   7/11/2019  10:09:44 14 Jul 2019
+9008  Donald Trump   Voters  ...   7/11/2019  10:09:44 14 Jul 2019
+9009  Donald Trump   Voters  ...   7/12/2019  10:09:44 14 Jul 2019
+9010  Donald Trump   Voters  ...   7/12/2019  10:09:44 14 Jul 2019
+9011  Donald Trump   Voters  ...   7/13/2019  10:09:44 14 Jul 2019
+9012  Donald Trump   Voters  ...   7/14/2019  10:09:44 14 Jul 2019
+
+[50 rows x 22 columns]
+Statistical data on Trump 'approval' column:
+___________________________________________________________
+Mean approval: 42.18184400310662
+Maximum approval: 59.0
+Minimum approval: 23.9
+Sum approval: 380184.95999999996
+Standard deviation approval: 3.780041636680855
+
+Filter for 'pollster' column on entries called 'Gallup': 
+(Displays first 10 entries)
+___________________________________________________________
+       president   subgroup  ... createddate             timestamp
+0   Donald Trump  All polls  ...   1/23/2017  10:07:55 14 Jul 2019
+2   Donald Trump  All polls  ...   1/24/2017  10:07:55 14 Jul 2019
+4   Donald Trump  All polls  ...   1/25/2017  10:07:55 14 Jul 2019
+9   Donald Trump  All polls  ...   1/26/2017  10:07:55 14 Jul 2019
+13  Donald Trump  All polls  ...   1/27/2017  10:07:55 14 Jul 2019
+16  Donald Trump  All polls  ...   1/28/2017  10:07:55 14 Jul 2019
+18  Donald Trump  All polls  ...   1/29/2017  10:07:55 14 Jul 2019
+22  Donald Trump  All polls  ...   1/30/2017  10:07:55 14 Jul 2019
+26  Donald Trump  All polls  ...   1/31/2017  10:07:55 14 Jul 2019
+29  Donald Trump  All polls  ...    2/1/2017  10:07:55 14 Jul 2019
+
+[10 rows x 22 columns]
+
+Displaying first 10 entries for 'pollster', 'grade', and 'population' columns: 
+___________________________________________________________
+                                   pollster grade population
+0                                    Gallup     B          a
+1                           Morning Consult    B-         rv
+2                                    Gallup     B          a
+3                                     Ipsos    B+          a
+4                                    Gallup     B          a
+5                     Quinnipiac University    A-         rv
+6                                     Ipsos    B+          a
+7  Rasmussen Reports/Pulse Opinion Research    C+         lv
+8                                     Ipsos    B+          a
+9                                    Gallup     B          a
+
+Filter approval ratings greater than 45: 
+(Displays first 50 entries)
+___________________________________________________________
+       president   subgroup  ... createddate             timestamp
+1   Donald Trump  All polls  ...   1/23/2017  10:07:55 14 Jul 2019
+4   Donald Trump  All polls  ...   1/25/2017  10:07:55 14 Jul 2019
+7   Donald Trump  All polls  ...   1/25/2017  10:07:55 14 Jul 2019
+9   Donald Trump  All polls  ...   1/26/2017  10:07:55 14 Jul 2019
+12  Donald Trump  All polls  ...   1/26/2017  10:07:55 14 Jul 2019
+15  Donald Trump  All polls  ...   1/27/2017  10:07:55 14 Jul 2019
+17  Donald Trump  All polls  ...    3/1/2017  10:07:55 14 Jul 2019
+19  Donald Trump  All polls  ...   1/29/2017  10:07:55 14 Jul 2019
+20  Donald Trump  All polls  ...   1/30/2017  10:07:55 14 Jul 2019
+21  Donald Trump  All polls  ...    3/1/2017  10:07:55 14 Jul 2019
+23  Donald Trump  All polls  ...    3/1/2017  10:07:55 14 Jul 2019
+24  Donald Trump  All polls  ...   1/31/2017  10:07:55 14 Jul 2019
+25  Donald Trump  All polls  ...   1/31/2017  10:07:55 14 Jul 2019
+27  Donald Trump  All polls  ...    3/1/2017  10:07:55 14 Jul 2019
+32  Donald Trump  All polls  ...    2/1/2017  10:07:55 14 Jul 2019
+33  Donald Trump  All polls  ...    2/1/2017  10:07:55 14 Jul 2019
+35  Donald Trump  All polls  ...    3/1/2017  10:07:55 14 Jul 2019
+36  Donald Trump  All polls  ...    2/2/2017  10:07:55 14 Jul 2019
+40  Donald Trump  All polls  ...    2/3/2017  10:07:55 14 Jul 2019
+41  Donald Trump  All polls  ...    2/6/2017  10:07:55 14 Jul 2019
+44  Donald Trump  All polls  ...    3/1/2017  10:07:55 14 Jul 2019
+46  Donald Trump  All polls  ...    3/1/2017  10:07:55 14 Jul 2019
+47  Donald Trump  All polls  ...    2/5/2017  10:07:55 14 Jul 2019
+48  Donald Trump  All polls  ...    1/9/2019  10:07:55 14 Jul 2019
+49  Donald Trump  All polls  ...    2/6/2017  10:07:55 14 Jul 2019
+50  Donald Trump  All polls  ...  11/16/2017  10:07:55 14 Jul 2019
+51  Donald Trump  All polls  ...    2/7/2017  10:07:55 14 Jul 2019
+52  Donald Trump  All polls  ...    3/1/2017  10:07:55 14 Jul 2019
+55  Donald Trump  All polls  ...    3/1/2017  10:07:55 14 Jul 2019
+57  Donald Trump  All polls  ...    3/1/2017  10:07:55 14 Jul 2019
+59  Donald Trump  All polls  ...    2/8/2017  10:07:55 14 Jul 2019
+61  Donald Trump  All polls  ...    2/7/2017  10:07:55 14 Jul 2019
+63  Donald Trump  All polls  ...    2/9/2017  10:07:55 14 Jul 2019
+64  Donald Trump  All polls  ...    3/1/2017  10:07:55 14 Jul 2019
+65  Donald Trump  All polls  ...   2/10/2017  10:07:55 14 Jul 2019
+67  Donald Trump  All polls  ...    3/1/2017  10:07:55 14 Jul 2019
+69  Donald Trump  All polls  ...   2/13/2017  10:07:55 14 Jul 2019
+71  Donald Trump  All polls  ...    3/1/2017  10:07:55 14 Jul 2019
+73  Donald Trump  All polls  ...    3/1/2017  10:07:55 14 Jul 2019
+74  Donald Trump  All polls  ...   2/11/2017  10:07:55 14 Jul 2019
+75  Donald Trump  All polls  ...   2/13/2017  10:07:55 14 Jul 2019
+77  Donald Trump  All polls  ...   2/14/2017  10:07:55 14 Jul 2019
+79  Donald Trump  All polls  ...    3/1/2017  10:07:55 14 Jul 2019
+80  Donald Trump  All polls  ...   2/14/2017  10:07:55 14 Jul 2019
+81  Donald Trump  All polls  ...   2/14/2017  10:07:55 14 Jul 2019
+83  Donald Trump  All polls  ...    3/1/2017  10:07:55 14 Jul 2019
+85  Donald Trump  All polls  ...   2/15/2017  10:07:55 14 Jul 2019
+86  Donald Trump  All polls  ...    3/1/2017  10:07:55 14 Jul 2019
+88  Donald Trump  All polls  ...    3/1/2017  10:07:55 14 Jul 2019
+90  Donald Trump  All polls  ...   2/16/2017  10:07:55 14 Jul 2019
+
+[50 rows x 22 columns]
+
+Filter any missing entries: 
+(Displays first 10 entries)
+___________________________________________________________
+      president   subgroup  ... createddate             timestamp
+0  Donald Trump  All polls  ...   1/23/2017  10:07:55 14 Jul 2019
+1  Donald Trump  All polls  ...   1/23/2017  10:07:55 14 Jul 2019
+2  Donald Trump  All polls  ...   1/24/2017  10:07:55 14 Jul 2019
+3  Donald Trump  All polls  ...    3/1/2017  10:07:55 14 Jul 2019
+4  Donald Trump  All polls  ...   1/25/2017  10:07:55 14 Jul 2019
+5  Donald Trump  All polls  ...   1/26/2017  10:07:55 14 Jul 2019
+6  Donald Trump  All polls  ...    3/1/2017  10:07:55 14 Jul 2019
+7  Donald Trump  All polls  ...   1/25/2017  10:07:55 14 Jul 2019
+8  Donald Trump  All polls  ...    3/1/2017  10:07:55 14 Jul 2019
+9  Donald Trump  All polls  ...   1/26/2017  10:07:55 14 Jul 2019
+
+[10 rows x 22 columns]
+
+Display approval column multiplied by 0.10: 
+(Displays first 10 entries)
+___________________________________________________________
+
+Before update: 
+   approve
+0     45.0
+1     46.0
+2     45.0
+3     42.1
+4     46.0
+5     36.0
+6     42.3
+7     57.0
+8     42.6
+9     46.0
+
+After update: 
+   approve
+0     4.50
+1     4.60
+2     4.50
+3     4.21
+4     4.60
+5     3.60
+6     4.23
+7     5.70
+8     4.26
+9     4.60
+
+Sort data from previous step in ascending order: 
+(Displays first 10 entries)
+___________________________________________________________
+   approve
+5     3.60
+3     4.21
+6     4.23
+8     4.26
+0     4.50
+2     4.50
+1     4.60
+4     4.60
+9     4.60
+7     5.70
+
+Grouping the 'approve' column by mean: 
+(Displays first 10 entries)
+___________________________________________________________
+          samplesize    weight  ...       poll_id   question_id
+approve                         ...                            
+23.90    1449.000000  0.737765  ...  50970.000000  80611.000000
+29.00    3749.333333  1.050494  ...  50957.333333  80598.333333
+29.10    1860.000000  0.918519  ...  50972.000000  80613.000000
+30.00    1330.000000  0.560940  ...  50968.000000  80609.000000
+31.00    1238.333333  0.610086  ...  50965.666667  80606.666667
+31.52     771.000000  0.548902  ...  50720.000000  80068.000000
+32.00    1450.250000  1.306191  ...  50476.000000  79558.750000
+33.00    1244.190476  0.802875  ...  51065.333333  80698.095238
+33.30    1464.000000  0.134989  ...  50697.000000  80018.000000
+33.53    1323.000000  0.696364  ...  50328.000000  79074.000000
+
+[10 rows x 8 columns]
+ericadamian@Erics-MBP-2 desktop % 
