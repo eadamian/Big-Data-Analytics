@@ -1,5 +1,5 @@
-# Avocado Prices
+# Avocado Prices (Group Project)
 
-Group project (July 2019)
+Project completed via Google Collab; data set link: https://www.kaggle.com/neuromusic/avocado-prices (data tested as of July 2019).
 
-Data set link: https://www.kaggle.com/neuromusic/avocado-prices
+CSV file will not display under repository, but is accessible when downloaded.
